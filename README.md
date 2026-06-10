@@ -27,4 +27,4 @@ An end-to-end Applied Machine Learning microservice built using Python, Scikit-L
 - `app/` : Production ready scripts hosting custom styled layouts and inferencing execution logic.
 
 ---
-*Developed as a core technical deliverable for the Data Analytics Internship Portfolio by Shruti.*
+*Developed as a core technical deliverable for the Data Analytics Internship Portfolio by Shruti Raj.*
